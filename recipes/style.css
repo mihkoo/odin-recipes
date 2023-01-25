@@ -1,0 +1,35 @@
+h1 {
+    font-family: Helvetica, "Century Gothic" sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h4, ul {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 20px;
+    background-color: #652070;
+    color: #ff20ff;
+}
+
+h2, a {
+    font-family: "comic sans", arial, sans-serif;
+    text-align: center;
+    color: #2050ff;
+    background-color: black;
+}
+
+ol {
+    font-family: windings, arial, sans-serif;
+    font-size: 25px;
+    color: pink;
+    background-color: navy;
+}
